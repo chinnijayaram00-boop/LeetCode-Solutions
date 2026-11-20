@@ -45,9 +45,9 @@ Explanation: The maximum consecutive elements that we can select is 1.
 ## Solution
 
 **Language:** Java  
-**Runtime:** 2 ms  
-**Memory:** 41.5 MB  
-**Submitted:** 2026-11-20T06:07:55.727Z  
+**Runtime:** 80 ms (beats 63.64%)  
+**Memory:** 117.1 MB (beats 27.27%)  
+**Submitted:** 2026-11-20T06:08:03.527Z  
 
 ```java
 
